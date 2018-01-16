@@ -1,0 +1,8 @@
+pip install Django - this installed Django
+pip list - lists all the possible packages I could download
+pip instal Django (again) - returns, Requirement already satisfied: Django ... same for pytz
+pip freeze - there is '==' between the package name and the version, whereas list just had the package name and then the version in ()
+cd ~/Desktop, pip freeze > requirements.txt, ls? I see a requirements.txt file on my Desktop
+pip uninstall Django - this uninstalled Django. It asked me (y/n) proceed? and I typed 'y'
+pip show Django - nothing happened
+pip search Flask - shows everything created with Flask?
